@@ -1,0 +1,36 @@
+* {
+  background-color: #dde5ec;
+}
+
+body,
+html {
+  background-color: #dde5ec;
+  height: auto;
+}
+
+#heading {
+  background-color: #dde5ec;
+  padding-top: 30px;
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+#calculator {
+  background-color: #dde5ec;
+}
+
+#steps {
+  background-color: #dde5ec;
+  text-align: center;
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.btn {
+  margin: 2px 2px 2px 2px;
+}
+
+.bigButton {
+  width: 77px;
+}
