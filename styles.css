@@ -9,6 +9,7 @@ html {
 }
 
 #heading {
+  text-decoration: underline;
   background-color: #dde5ec;
   padding-top: 30px;
   font-size: 35px;
@@ -20,7 +21,7 @@ html {
   background-color: #dde5ec;
 }
 
-#steps {
+#calculation {
   background-color: #dde5ec;
   text-align: center;
   margin-bottom: 0px;
